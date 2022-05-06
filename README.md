@@ -1,1 +1,2 @@
 # React-Calculator
+   This is a calculator built using React from FreecodeCamp. There are keys as in normal calculator which when pressed do the desired function. On pressing number keys the corresponding number will display on the screen and pressing operand keys(like '+','-' etc.) will do corresponding operations. After any calculation equal("=") will display the result. There are certain limitation here like you can't add multiple zero in the beginning of any number nad multiple decimal in a single number is not allowed.
